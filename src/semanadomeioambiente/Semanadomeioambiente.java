@@ -15,7 +15,7 @@ public class Semanadomeioambiente {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ola mundo!!!");
+        System.out.println("Ola mundo");
         System.out.println("Semana do meio ambiente");
         System.out.println("2018");
     }
